@@ -1,4 +1,10 @@
-# Currency Exchange Calculator
+## Project from course:
+
+**Apply Redux to a Modern React Hooks Application**
+
+https://egghead.io/courses/apply-redux-to-a-modern-react-hooks-application-8a37
+
+### Currency Exchange Calculator
 
 A simple currency exchange calculator built to demonstrate using redux with react hooks.
 
